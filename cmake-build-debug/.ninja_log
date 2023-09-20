@@ -1,0 +1,14 @@
+# ninja log v5
+1	59	1695246322316430360	build.ninja	a79e8629ab8d52d1
+4	26	1695245656176644801	CMakeFiles/AlgStructCrypt.dir/Task1.cpp.o	ca5630ba18ccf088
+6	340	1695241758690564702	CMakeFiles/AlgStructCrypt.dir/Task3.cpp.o	b19daa932fc519cb
+3	292	1695246307378113097	CMakeFiles/AlgStructCrypt.dir/Task8.cpp.o	23f3e23d735abc19
+4	340	1695244598897551558	CMakeFiles/AlgStructCrypt.dir/Task7.cpp.o	86edddc11bb04334
+3	330	1695243178233770229	CMakeFiles/AlgStructCrypt.dir/Task5.cpp.o	37bd7a69f47d771b
+3	438	1695244015874637484	CMakeFiles/AlgStructCrypt.dir/Task6.cpp.o	af1d62ae31245bf4
+4	299	1695241473941279271	CMakeFiles/AlgStructCrypt.dir/Task2.cpp.o	1ea282333c60bdfd
+292	338	1695246307424655658	AlgStructCrypt	3393e2dd1bfffbf9
+4	20	1695244913180384621	CMakeFiles/AlgStructCrypt.dir/Task4.cpp.o	4eb69bf9576edc2
+5	293	1695247597806333964	CMakeFiles/AlgStructCrypt.dir/Task9.cpp.o	76502e6e6d8f6be6
+4	27	1695247632593047250	CMakeFiles/AlgStructCrypt.dir/Task8.cpp.o	23f3e23d735abc19
+27	62	1695247632627880808	AlgStructCrypt	ce00a49fde28da60
