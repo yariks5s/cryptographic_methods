@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yaroslav/AlgStructCrypt/output/task6_1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9randULongyy, symObjAddr: 0x0, symBinAddr: 0x100003500, symSize: 0x54 }
+  - { offsetInCU: 0x5A, offset: 0x5A, size: 0x8, addend: 0x0, symName: __Z9randULongyy, symObjAddr: 0x0, symBinAddr: 0x100003500, symSize: 0x54 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: __Z7mul_modyyy, symObjAddr: 0x54, symBinAddr: 0x100003554, symSize: 0xB8 }
+  - { offsetInCU: 0x106, offset: 0x106, size: 0x8, addend: 0x0, symName: __Z7pow_modyyy, symObjAddr: 0x10C, symBinAddr: 0x10000360C, symSize: 0x9C }
+  - { offsetInCU: 0x15C, offset: 0x15C, size: 0x8, addend: 0x0, symName: __Z7isPrimeyx, symObjAddr: 0x1A8, symBinAddr: 0x1000036A8, symSize: 0x258 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: __Z15legendre_symbolxx, symObjAddr: 0x400, symBinAddr: 0x100003900, symSize: 0x80 }
+  - { offsetInCU: 0x241, offset: 0x241, size: 0x8, addend: 0x0, symName: __Z6fp2mul3fp2S_xx, symObjAddr: 0x480, symBinAddr: 0x100003980, symSize: 0xDC }
+  - { offsetInCU: 0x2C1, offset: 0x2C1, size: 0x8, addend: 0x0, symName: __Z9fp2square3fp2xx, symObjAddr: 0x55C, symBinAddr: 0x100003A5C, symSize: 0x64 }
+  - { offsetInCU: 0x309, offset: 0x309, size: 0x8, addend: 0x0, symName: __Z6fp2pow3fp2xxx, symObjAddr: 0x5C0, symBinAddr: 0x100003AC0, symSize: 0x140 }
+  - { offsetInCU: 0x36E, offset: 0x36E, size: 0x8, addend: 0x0, symName: __Z4testxx, symObjAddr: 0x700, symBinAddr: 0x100003C00, symSize: 0x1F4 }
+  - { offsetInCU: 0x3EA, offset: 0x3EA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x8F4, symBinAddr: 0x100003DF4, symSize: 0xAC }
+...
